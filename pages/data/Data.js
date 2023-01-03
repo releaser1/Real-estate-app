@@ -105,7 +105,7 @@ const homesData = [
         id: 11,
         type: 'Sold',
         city: 'Philadelphia, Pensylvania',
-        image: 'https://static.giggster.com/images/location/f13156b5-86ee-4b0c-bfdb-6b4cf8d3c48d/0c1e73c3-2cce-474e-9482-fa7f0300d03c/full_hd_retina.jpeg',
+        image: 'https://images.unsplash.com/photo-1517502884422-41eaead166d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80',
         price: 90000,
         rooms: 1,
         bath: 2,
